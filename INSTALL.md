@@ -7,7 +7,7 @@
 ## Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/project.git
+git clone https://github.com/csc510g12/git-homework2.git
 ```
 
 2. Open `index.html` in your web browser
