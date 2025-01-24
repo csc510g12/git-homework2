@@ -1,1 +1,15 @@
-**/*.swp
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~
+
+# Local development notes
+TODO.txt
+notes.md
