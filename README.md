@@ -4,6 +4,8 @@
 
 # (Add code example for git stuff)
 
+Also need at least 4 badges.
+
 # Task List
 - [ ] Task 1: Complete Git Tutorial
 - [ ] Task 2: Add Screenshots to README.md
