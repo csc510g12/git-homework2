@@ -1,4 +1,10 @@
-## HW 2 (IDK what we need for introduction)
+## 📝 Introduction
+
+![GitHub License](https://img.shields.io/github/license/ncsu-csc510-25spring/hw1)
+![HTML Language](https://img.shields.io/badge/Language-HTML-yellow)
+![CSS Language](https://img.shields.io/badge/Language-CSS-blue)
+![JavaScript Language](https://img.shields.io/badge/Language-JavaScript-green)
+
 
 # (Add project screenshot here later)
 
