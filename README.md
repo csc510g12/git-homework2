@@ -1,3 +1,5 @@
+# Homework 2: Git Tutorial
+
 ## 📝 Introduction
 
 ![GitHub License](https://img.shields.io/github/license/ncsu-csc510-25spring/hw1)
@@ -5,14 +7,34 @@
 ![CSS Language](https://img.shields.io/badge/Language-CSS-blue)
 ![JavaScript Language](https://img.shields.io/badge/Language-JavaScript-green)
 
+## 2️⃣ Image
 
-# (Add project screenshot here later)
+## 3️⃣ Code Example
 
-# (Add code example for git stuff)
+```bash
+# clone this repository
+$ git clone ... (URL)
 
-Also need at least 4 badges.
+# create a new branch for yourself, should use unityid as branch name
+$ git checkout -b <your_unity_id>
+
+# make changes to the code
+...
+
+# add the changes to the staging area
+$ git add .
+
+# commit the changes
+$ git commit -m "commit message"
+
+# push the changes to the remote repository on your branch
+$ git push origin <your_unity_id>
+```
+
+After that, you can create a pull request to merge your changes into the main branch.
 
 # Task List
+
 - [ ] Task 1: Complete Git Tutorial
 - [ ] Task 2: Add Screenshots to README.md
 - [ ] Task 3: Modify .html File
