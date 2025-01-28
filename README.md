@@ -10,7 +10,8 @@
 ## 2️⃣ Image
 
 Index HTML:
-![index-screenshot](./git-homework2/index-screenshot.png)
+![index-screenshot](./git-homework2/screenshot1.png)
+![index-screenshot](./git-homework2/screenshot2.png)
 
 Git toturial progress:
 ![git-tutorial](./git-homework2/git-totur-progress.png)
