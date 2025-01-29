@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #eec0c0;
+    background-color: #549c7f;
     color: #333;
     line-height: 1.6;
     display: flex;
@@ -54,6 +54,6 @@ footer {
     background: #444;
     color: #fff;
     font-size: 0.9em;
-    border-top: 3px solid #d6336c;
+    border-top: 3px solid #3700ff;
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
 }

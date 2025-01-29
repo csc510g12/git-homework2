@@ -15,7 +15,8 @@ Index HTML:
 Git toturial progress:
 ![git-tutorial](./git-homework2/screenshot1.png)
 ![git-tutorial](./git-homework2/screenshot2.png)
-
+![git-tutorial](./git-homework2/ohmgitmaintopics.png)
+![git-tutorial](./git-homework2/ohmgitremotetopics.png)
 
 ## 3️⃣ Code Example
 
