@@ -7,6 +7,11 @@
 ![CSS Language](https://img.shields.io/badge/Language-CSS-blue)
 ![JavaScript Language](https://img.shields.io/badge/Language-JavaScript-green)
 
+Branches deleted:
+
+<img width="516" alt="image" src="https://github.com/user-attachments/assets/84502c59-3b95-4dfa-9ece-a5b90d6835d8" />
+
+
 ## 2️⃣ Image
 
 Index HTML:
@@ -47,5 +52,5 @@ After that, you can create a pull request to merge your changes into the main br
 - [x] Task 1: Complete Git Tutorial
 - [x] Task 2: Add Screenshots to README.md
 - [x] Task 3: Modify .html File
-- [ ] Task 4: Merge latest changes
+- [x] Task 4: Merge latest changes
 - [x] Task 5: Review pull request
